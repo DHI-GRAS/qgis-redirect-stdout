@@ -21,6 +21,6 @@ It is as easy as this:
 
 from redirect_stdout import redirect_stdout
 
-with redirect_stdout(progress):  # the progress instance is injected a runtime wrrg
+with redirect_stdout(progress):  # the progress instance is injected into QGIS scripts at runtime
     pass  # your third-party script call goes here
 ```
