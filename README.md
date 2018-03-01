@@ -1,4 +1,4 @@
-# QGIS_redirect_stdout
+# QGIS redirect stdout
 Redirect standard output (print) from scripts to QGIS's progress console
 
 ## Use case
